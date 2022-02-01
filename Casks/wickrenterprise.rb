@@ -1,6 +1,6 @@
 cask 'wickrenterprise' do
-  version '5.96.9'
-  sha256 '6461d2131a2d2d732570c65b062cf6f78e4c35d4364b877fb1b71fd82eb091a8'
+  version '5.96.10'
+  sha256 'f4917dbc75f8452a104cd6779b5a14865d919409bb87d1d1077bccb90c569da3'
 
   # amazonaws.com/static.wickr.com/downloads/mac/ent was verified as official when first introduced to the cask
   url "https://s3.amazonaws.com/static.wickr.com/downloads/mac/ent/WickrEnterprise-#{version}.dmg"
